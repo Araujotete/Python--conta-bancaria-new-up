@@ -1,2 +1,2 @@
-# Python--conta-bancaria-new-up
-Conta bancaria em Python, novas alterações 
+# Conta bancaria em Python
+Deasafio de projeto: Conta bancaria em Python, novas alterações 
